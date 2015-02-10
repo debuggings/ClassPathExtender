@@ -1,5 +1,7 @@
 #ClassPathExtender
 
+[![Join the chat at https://gitter.im/debuggings/ClassPathExtender](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/debuggings/ClassPathExtender?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ClassPathExtender is an open source **Java CLASSPATH management tool** built with Java.
 
 
